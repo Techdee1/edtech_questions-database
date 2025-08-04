@@ -1,0 +1,54 @@
+# PDF source files
+*.pdf
+
+# Text extraction files
+*_bank.txt
+*_complete.txt
+
+# Temporary databases
+english_questions.db
+
+# Development/testing files
+browse_questions.py
+enhanced_english_extractor.py
+extract_general_knowledge_questions.py
+extract_mathematics_questions.py
+English_Questions_README.md
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
