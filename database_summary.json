@@ -1,0 +1,48 @@
+{
+  "database_name": "edtech_questions_database.db",
+  "created_date": "2025-08-04T14:51:29.101109",
+  "total_questions": 300,
+  "subjects": {
+    "English": {
+      "total_questions": 102,
+      "question_types": {
+        "multiple_choice": 30,
+        "general": 17,
+        "vocabulary": 15,
+        "fill_in_blank": 15,
+        "grammar": 13,
+        "pronunciation": 12
+      },
+      "source": "English bank PDF (74 pages)",
+      "extraction_rate": "102/204 potential questions (50%)"
+    },
+    "Mathematics": {
+      "total_questions": 146,
+      "question_types": {
+        "Arithmetic": 71,
+        "Trigonometry": 42,
+        "Algebra": 17,
+        "Geometry": 9,
+        "Statistics": 6,
+        "Calculus": 1
+      },
+      "source": "Mathematics bank PDF (8 pages)",
+      "extraction_rate": "146/188 potential questions (77.7%)"
+    },
+    "General Knowledge": {
+      "total_questions": 52,
+      "question_types": {
+        "General Knowledge": 20,
+        "Nigerian Geography/Politics": 9,
+        "Sports": 7,
+        "World Geography": 6,
+        "Science": 3,
+        "Language/Idioms": 3,
+        "History/Technology": 2,
+        "Culture/Events": 2
+      },
+      "source": "General Knowledge PDF",
+      "extraction_rate": "52/62 potential questions (83.9%)"
+    }
+  }
+}
